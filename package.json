@@ -1,0 +1,19 @@
+{
+  "name": "telegram-validation-bot",
+  "version": "1.0.0",
+  "description": "Simple Telegram bot for channel validation with captcha",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["telegram", "bot", "validation", "captcha"],
+  "author": "Your Name",
+  "license": "MIT"
+}
